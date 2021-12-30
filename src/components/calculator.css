@@ -39,3 +39,11 @@ button:hover{
     background-color: #505050;
     color: white;
 }
+
+.result{
+    display: flex;
+    justify-content: right;
+    margin-right: 1em;
+    font-size: 3em;
+    color: white;    
+}
